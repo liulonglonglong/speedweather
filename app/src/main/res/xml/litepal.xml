@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<litepal>
+    <dbname value="speed_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.speedweather.android.db.Province" />
+        <mapping class="com.speedweather.android.db.City" />
+        <mapping calss="com.speedweather.android.db.Country" />
+    </list>
+</litepal>
